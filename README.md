@@ -28,8 +28,10 @@
  7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
  
  ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
- 
- ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
+output
+<img width="1153" height="811" alt="image" src="https://github.com/user-attachments/assets/90cfcf80-907f-410f-a409-03072e3272ee" />
+
+
  
  
  ## SKETCH
